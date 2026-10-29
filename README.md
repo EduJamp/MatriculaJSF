@@ -1,4 +1,4 @@
-# matricula-jsf — Desarrollo Web Integrado (Semana 11)
+# matricula-jsf
 
 Proyecto base para la sesión **JSF: navegación, etiquetas, EL y tablas de datos**.
 
